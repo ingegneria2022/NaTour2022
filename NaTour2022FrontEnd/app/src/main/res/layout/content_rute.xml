@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="443dp"
+        android:layout_height="252dp"
+        android:layout_marginTop="0dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/etPathwayName"
+        android:layout_width="366dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="360dp"
+        android:ems="10"
+        android:hint="@string/PathwayName"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="25dp"
+        app:layout_anchor="@+id/etPathwayName"
+        app:layout_anchorGravity="top|center" />
+
+    <TextView
+        android:id="@+id/etPathwayDescription"
+        android:layout_width="366dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="425dp"
+        android:ems="10"
+        android:hint="@string/PathwayDescription"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="15dp"
+        app:layout_anchor="@+id/etPathwayDescription"
+        app:layout_anchorGravity="center" />
+
+    <TextView
+        android:id="@+id/etPathwayDuration"
+        android:layout_width="366dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="490dp"
+        android:ems="10"
+        android:hint="@string/PathwayDuration"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/etPathwayDifficulty"
+        android:layout_width="165dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="560dp"
+        android:ems="10"
+        android:hint="@string/PathwayDifficulty"
+        android:minHeight="48dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btnInsInterestingPoints"
+        android:layout_width="366dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="645dp"
+        android:backgroundTint="#F49191"
+        android:drawableEnd="@drawable/ic_baseline_add_location_24"
+        android:ems="10"
+        android:text="@string/btnInsInterestingPoints"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnFeedback"
+        android:layout_width="308dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="705dp"
+        android:backgroundTint="#F3C335"
+        android:drawableEnd="@drawable/ic_baseline_star_rate_24"
+        android:ems="10"
+        android:text="@string/btnFeedback"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnPhotoPathway"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="765dp"
+        android:backgroundTint="#9A9BCF"
+        android:drawableEnd="@drawable/ic_baseline_photo_camera_24"
+        android:ems="10"
+        android:text="@string/btnPhoto"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnReportPathway"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="825dp"
+        android:backgroundTint="#3F51B5"
+        android:drawableEnd="@drawable/ic_baseline_report_24"
+        android:ems="10"
+        android:text="@string/btnReport"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvPathwaySignaling"
+        android:layout_width="366dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="280dp"
+
+        android:text="Questo percorso non contiene segnalazioni."
+        android:textColor="@color/teal_200"
+        app:layout_anchor="@+id/tvPathwaySignaling"
+        app:layout_anchorGravity="top|center" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="340dp"
+        android:textColor="@color/black"
+        android:text="Nome Percorso:" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="400dp"
+        android:textColor="@color/black"
+        android:text="Descrizione:" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="475dp"
+        android:textColor="@color/black"
+        android:text="Durata:" />
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="545dp"
+        android:textColor="@color/black"
+        android:text="Difficolta:" />
+    <include
+        android:id="@+id/include3"
+        layout="@layout/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="900dp"
+        app:layout_anchor="@+id/btnReportPathway"
+        app:layout_anchorGravity="top|center" />
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
