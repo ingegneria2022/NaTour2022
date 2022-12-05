@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-natour2122fe-dev-131706-authRole",
+      "UnauthRoleArn": "arn:aws:iam::330596282614:role/amplify-natour2122fe-dev-131706-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::330596282614:role/amplify-natour2122fe-dev-131706-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-natour2122fe-dev-131706-deployment",
+      "UnauthRoleName": "amplify-natour2122fe-dev-131706-unauthRole",
+      "StackName": "amplify-natour2122fe-dev-131706",
+      "StackId": "arn:aws:cloudformation:us-east-1:330596282614:stack/amplify-natour2122fe-dev-131706/fb18b660-13e6-11ed-8608-12db10b1a56b",
+      "AmplifyAppId": "d3pu0c5mt6amzg"
+    },
+    "categories": {
+      "auth": {
+        "natour2122fe98851850": {}
+      }
+    }
+  }
+}
