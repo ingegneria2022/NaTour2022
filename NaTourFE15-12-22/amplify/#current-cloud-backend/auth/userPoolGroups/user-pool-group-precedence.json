@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "NaTour22",
+    "precedence": 1
+  },
+  {
+    "groupName": "CognitoUsersPoolGroupNaTour",
+    "precedence": 2
+  }
+]
