@@ -1,0 +1,780 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.natour2122fe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:11:5-67
+16-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:11:22-64
+17
+18    <queries>
+18-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:25:5-32:15
+19        <intent>
+19-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:26:9-28:18
+20            <action android:name="android.media.action.VIDEO_CAPTURE" />
+20-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:27:13-73
+20-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:27:21-70
+21        </intent>
+22        <intent>
+22-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:29:9-31:18
+23            <action android:name="android.media.action.IMAGE_CAPTURE" />
+23-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:30:13-73
+23-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:30:21-70
+24        </intent>
+25        <!-- Needs to be explicitly declared on Android R+ -->
+26        <package android:name="com.google.android.apps.maps" />
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+27    </queries>
+28
+29    <uses-feature
+29-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+30        android:glEsVersion="0x00020000"
+30-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+31        android:required="true" />
+31-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+32
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+33-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+34    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+34-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+34-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+35    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+35-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+35-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+36
+37    <application
+37-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:13:5-154:19
+38        android:name="com.example.natour2122fe.login.PrincipalAmplify"
+38-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:14:9-47
+39        android:allowBackup="true"
+39-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:15:9-35
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:icon="@mipmap/ic_launcher"
+42-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:16:9-43
+43        android:label="@string/app_name"
+43-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:17:9-41
+44        android:networkSecurityConfig="@xml/network_security_config"
+44-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:18:9-69
+45        android:requestLegacyExternalStorage="true"
+45-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:19:9-52
+46        android:roundIcon="@mipmap/ic_launcher_round"
+46-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:20:9-54
+47        android:supportsRtl="true"
+47-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:21:9-35
+48        android:testOnly="true"
+49        android:theme="@style/Theme.NaTour2122FE" >
+49-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:22:9-50
+50        <activity
+50-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:24:9-27:40
+51            android:name="com.example.natour2122fe.PhotoActivity"
+51-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:25:13-42
+52            android:exported="false"
+52-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:27:13-37
+53            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+53-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:26:13-66
+54        <activity
+54-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:28:9-35:20
+55            android:name="com.example.natour2122fe.chat.ImgurAttachmentFactory"
+55-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:29:13-56
+56            android:exported="false"
+56-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:31:13-37
+57            android:theme="@style/Theme.NaTour2122FE.NoActionBar" >
+57-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:30:13-66
+58            <meta-data
+58-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:32:13-34:36
+59                android:name="android.app.lib_name"
+59-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:33:17-52
+60                android:value="" />
+60-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:34:17-33
+61        </activity>
+62        <activity
+62-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:36:9-43:20
+63            android:name="com.example.natour2122fe.chat.ChatActivity"
+63-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:37:13-46
+64            android:exported="false"
+64-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:39:13-37
+65            android:theme="@style/Theme.NaTour2122FE.NoActionBar" >
+65-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:38:13-66
+66            <meta-data
+66-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:32:13-34:36
+67                android:name="android.app.lib_name"
+67-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:33:17-52
+68                android:value="" />
+68-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:34:17-33
+69        </activity>
+70        <activity
+70-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:44:9-51:20
+71            android:name="com.example.natour2122fe.chat.ListChatActivity"
+71-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:45:13-50
+72            android:exported="false"
+72-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:47:13-37
+73            android:theme="@style/Theme.NaTour2122FE.NoActionBar" >
+73-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:46:13-66
+74            <meta-data
+74-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:32:13-34:36
+75                android:name="android.app.lib_name"
+75-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:33:17-52
+76                android:value="" />
+76-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:34:17-33
+77        </activity>
+78        <activity
+78-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:52:9-55:68
+79            android:name="com.example.natour2122fe.InsResponsPathwaySignalitedActivity"
+79-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:53:13-64
+80            android:exported="false"
+80-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:54:13-37
+81            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+81-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:55:13-66
+82        <activity
+82-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:56:9-59:68
+83            android:name="com.example.natour2122fe.VisPathwaySignalitedActivity"
+83-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:57:13-57
+84            android:exported="false"
+84-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:58:13-37
+85            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+85-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:59:13-66
+86        <activity
+86-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:60:9-63:68
+87            android:name="com.example.natour2122fe.SignalingActivity"
+87-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:61:13-46
+88            android:exported="false"
+88-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:62:13-37
+89            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+89-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:63:13-66
+90        <activity
+90-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:64:9-67:69
+91            android:name="com.example.natour2122fe.InsPhotoActivity"
+91-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:65:13-45
+92            android:exported="false"
+92-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:66:13-37
+93            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+93-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:67:13-66
+94        <activity
+94-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:68:9-71:69
+95            android:name="com.example.natour2122fe.InsPathwaySignalingActivity"
+95-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:69:13-56
+96            android:exported="false"
+96-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:70:13-37
+97            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+97-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:71:13-66
+98        <activity
+98-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:72:9-75:69
+99            android:name="com.example.natour2122fe.InsInterestPointsActivity"
+99-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:73:13-54
+100            android:exported="false"
+100-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:74:13-37
+101            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+101-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:75:13-66
+102        <activity
+102-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:76:9-79:69
+103            android:name="com.example.natour2122fe.InsFeedbackActivity"
+103-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:77:13-48
+104            android:exported="false"
+104-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:78:13-37
+105            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+105-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:79:13-66
+106        <activity
+106-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:80:9-83:69
+107            android:name="com.example.natour2122fe.InterestPointsActivity"
+107-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:81:13-51
+108            android:exported="false"
+108-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:82:13-37
+109            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+109-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:83:13-66
+110        <activity
+110-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:84:9-87:69
+111            android:name="com.example.natour2122fe.FeedbackActivity"
+111-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:85:13-45
+112            android:exported="false"
+112-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:86:13-37
+113            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+113-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:87:13-66
+114        <activity
+114-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:88:9-92:69
+115            android:name="com.example.natour2122fe.RuteDetailsActivityScr"
+115-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:89:13-51
+116            android:exported="false"
+116-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:90:13-37
+117            android:label="@string/title_activity_rute_details_scr"
+117-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:91:13-68
+118            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+118-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:92:13-66
+119        <activity
+119-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:93:9-96:69
+120            android:name="com.example.natour2122fe.InsPathwayActivity"
+120-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:94:13-47
+121            android:exported="false"
+121-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:95:13-37
+122            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+122-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:96:13-66
+123        <activity
+123-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:97:9-100:69
+124            android:name="com.example.natour2122fe.MapPointsActivity"
+124-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:98:13-46
+125            android:exported="false"
+125-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:99:13-37
+126            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+126-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:100:13-66
+127
+128        <meta-data
+128-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:102:9-104:47
+129            android:name="com.google.android.geo.API_KEY"
+129-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:103:13-58
+130            android:value="@string/map_key" />
+130-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:104:13-44
+131
+132        <activity
+132-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:106:9-109:69
+133            android:name="com.example.natour2122fe.login.google.GoogleLoginActivity"
+133-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:107:13-61
+134            android:exported="false"
+134-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:108:13-37
+135            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+135-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:109:13-66
+136        <activity
+136-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:110:9-113:69
+137            android:name="com.example.natour2122fe.login.UserActivity"
+137-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:111:13-47
+138            android:exported="false"
+138-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:112:13-37
+139            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+139-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:113:13-66
+140        <activity
+140-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:114:9-117:69
+141            android:name="com.example.natour2122fe.login.AdminActivity"
+141-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:115:13-48
+142            android:exported="false"
+142-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:116:13-37
+143            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+143-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:117:13-66
+144        <activity
+144-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:118:9-121:68
+145            android:name="com.example.natour2122fe.login.popUpErrorActivity"
+145-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:119:13-53
+146            android:exported="false"
+146-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:120:13-37
+147            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+147-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:121:13-66
+148        <activity
+148-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:122:9-125:68
+149            android:name="com.example.natour2122fe.popUpPhotoActivity"
+149-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:123:13-47
+150            android:exported="false"
+150-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:124:13-37
+151            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+151-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:125:13-66
+152        <activity
+152-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:126:9-129:69
+153            android:name="com.example.natour2122fe.HomeActivity"
+153-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:127:13-41
+154            android:exported="false"
+154-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:128:13-37
+155            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+155-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:129:13-66
+156        <activity
+156-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:130:9-133:69
+157            android:name="com.example.natour2122fe.login.ConfirmActivity"
+157-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:131:13-50
+158            android:exported="false"
+158-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:132:13-37
+159            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+159-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:133:13-66
+160        <activity
+160-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:134:9-138:69
+161            android:name="com.example.natour2122fe.login.SignInActivity"
+161-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:135:13-49
+162            android:exported="false"
+162-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:136:13-37
+163            android:parentActivityName="com.example.natour2122fe.MainActivity"
+163-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:137:13-55
+164            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+164-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:138:13-66
+165        <activity
+165-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:139:9-148:20
+166            android:name="com.example.natour2122fe.MainActivity"
+166-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:140:13-41
+167            android:exported="true"
+167-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:141:13-36
+168            android:theme="@style/Theme.NaTour2122FE.NoActionBar" >
+168-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:142:13-66
+169            <intent-filter>
+169-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:143:13-147:29
+170                <action android:name="android.intent.action.MAIN" />
+170-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:144:17-69
+170-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:144:25-66
+171
+172                <category android:name="android.intent.category.LAUNCHER" />
+172-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:146:17-77
+172-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:146:27-74
+173            </intent-filter>
+174        </activity>
+175        <activity
+175-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:149:9-153:69
+176            android:name="com.example.natour2122fe.login.SignUpActivity"
+176-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:150:13-49
+177            android:exported="false"
+177-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:151:13-37
+178            android:parentActivityName="com.example.natour2122fe.MainActivity"
+178-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:152:13-55
+179            android:theme="@style/Theme.NaTour2122FE.NoActionBar" />
+179-->C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:153:13-66
+180
+181        <provider
+181-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:30:9-38:20
+182            android:name="androidx.startup.InitializationProvider"
+182-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:31:13-67
+183            android:authorities="com.example.natour2122fe.androidx-startup"
+183-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:32:13-68
+184            android:exported="false" >
+184-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:33:13-37
+185            <meta-data
+185-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:35:13-37:52
+186                android:name="io.getstream.chat.android.ui.common.ChatUIInitializer"
+186-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:36:17-85
+187                android:value="androidx.startup" />
+187-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:37:17-49
+188            <meta-data
+188-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:54:13-56:52
+189                android:name="com.getstream.sdk.chat.startup.ThreeTenInitializer"
+189-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:55:17-82
+190                android:value="androidx.startup" />
+190-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:56:17-49
+191            <meta-data
+191-->[androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+192                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+192-->[androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+193                android:value="androidx.startup" />
+193-->[androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+194            <meta-data
+194-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+195                android:name="androidx.work.WorkManagerInitializer"
+195-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+196                android:value="androidx.startup" />
+196-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+197            <meta-data
+197-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+198                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+198-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+199                android:value="androidx.startup" />
+199-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+200        </provider>
+201
+202        <activity
+202-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:40:9-43:65
+203            android:name="io.getstream.chat.android.ui.gallery.AttachmentGalleryActivity"
+203-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:41:13-90
+204            android:exported="false"
+204-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:42:13-37
+205            android:theme="@style/StreamUi.AttachmentGallery" />
+205-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:43:13-62
+206        <activity
+206-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:44:9-47:61
+207            android:name="io.getstream.chat.android.ui.gallery.AttachmentMediaActivity"
+207-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:45:13-88
+208            android:exported="false"
+208-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:46:13-37
+209            android:theme="@style/StreamUi.MediaActivity" />
+209-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:47:13-58
+210        <activity
+210-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:48:9-51:66
+211            android:name="io.getstream.chat.android.ui.gallery.AttachmentActivity"
+211-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:49:13-83
+212            android:exported="false"
+212-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:50:13-37
+213            android:theme="@style/StreamUi.AttachmentActivity" />
+213-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:51:13-63
+214        <activity
+214-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:52:9-54:40
+215            android:name="io.getstream.chat.android.ui.channel.ChannelListActivity"
+215-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:53:13-84
+216            android:exported="false" />
+216-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:54:13-37
+217        <activity
+217-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:55:9-57:40
+218            android:name="io.getstream.chat.android.ui.message.MessageListActivity"
+218-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:56:13-84
+219            android:exported="false" />
+219-->[io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:57:13-37
+220        <activity
+220-->[com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:27:9-29:54
+221            android:name="com.amplifyframework.devmenu.DeveloperMenuActivity"
+221-->[com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:28:13-78
+222            android:theme="@style/OverlayActivity" />
+222-->[com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:29:13-51
+223        <activity
+223-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:35:9-38:75
+224            android:name="com.getstream.sdk.chat.view.activity.AttachmentDocumentActivity"
+224-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:36:13-91
+225            android:exported="false"
+225-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:37:13-37
+226            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+226-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:38:13-72
+227
+228        <provider
+228-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:40:9-48:20
+229            android:name="com.getstream.sdk.chat.StreamFileProvider"
+229-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:41:13-69
+230            android:authorities="com.example.natour2122fe.streamfileprovider"
+230-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:42:13-70
+231            android:exported="false"
+231-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:43:13-37
+232            android:grantUriPermissions="true" >
+232-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:44:13-47
+233            <meta-data
+233-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:45:13-47:60
+234                android:name="android.support.FILE_PROVIDER_PATHS"
+234-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:46:17-67
+235                android:resource="@xml/stream_filepaths" />
+235-->[io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:47:17-57
+236        </provider>
+237
+238        <activity
+238-->[com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+239            android:name="com.karumi.dexter.DexterActivity"
+239-->[com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:28:13-60
+240            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+240-->[com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:29:13-69
+241
+242        <receiver
+242-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:28:9-36:20
+243            android:name="io.getstream.chat.android.client.receivers.NotificationMessageReceiver"
+243-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:29:13-98
+244            android:enabled="true"
+244-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:30:13-35
+245            android:exported="false" >
+245-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:31:13-37
+246            <intent-filter>
+246-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:32:13-35:29
+247                <action android:name="com.getstream.sdk.chat.READ" />
+247-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:33:17-70
+247-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:33:25-67
+248                <action android:name="com.getstream.sdk.chat.REPLY" />
+248-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:34:17-71
+248-->[io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:34:25-68
+249            </intent-filter>
+250        </receiver>
+251
+252        <activity
+252-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+253            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+253-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+254            android:excludeFromRecents="true"
+254-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+255            android:exported="false"
+255-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+256            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+256-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+257        <!--
+258            Service handling Google Sign-In user revocation. For apps that do not integrate with
+259            Google Sign-In, this service will never be started.
+260        -->
+261        <service
+261-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+262            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+262-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+263            android:exported="true"
+263-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+264            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+264-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+265            android:visibleToInstantApps="true" /> <!-- Needs to be explicitly declared on P+ -->
+265-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+266        <uses-library
+266-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+267            android:name="org.apache.http.legacy"
+267-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+268            android:required="false" />
+268-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+269
+270        <activity
+270-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+271            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+271-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+272            android:exported="false"
+272-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+273            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+273-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+274
+275        <meta-data
+275-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+276            android:name="com.google.android.gms.version"
+276-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+277            android:value="@integer/google_play_services_version" />
+277-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+278
+279        <activity
+279-->[com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:12:9-16:75
+280            android:name="com.amazonaws.mobileconnectors.cognitoauth.activities.CustomTabsManagerActivity"
+280-->[com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:13:13-107
+281            android:exported="false"
+281-->[com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:14:13-37
+282            android:launchMode="singleTask"
+282-->[com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:15:13-44
+283            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+283-->[com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:16:13-72
+284
+285        <service
+285-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+286            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+286-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+287            android:directBootAware="false"
+287-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+288            android:enabled="@bool/enable_system_alarm_service_default"
+288-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+289            android:exported="false" />
+289-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+290        <service
+290-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+291            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+291-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+292            android:directBootAware="false"
+292-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+293            android:enabled="@bool/enable_system_job_service_default"
+293-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+294            android:exported="true"
+294-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+295            android:permission="android.permission.BIND_JOB_SERVICE" />
+295-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+296        <service
+296-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+297            android:name="androidx.work.impl.foreground.SystemForegroundService"
+297-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+298            android:directBootAware="false"
+298-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+299            android:enabled="@bool/enable_system_foreground_service_default"
+299-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+300            android:exported="false" />
+300-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+301
+302        <receiver
+302-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+303            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+303-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+304            android:directBootAware="false"
+304-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+305            android:enabled="true"
+305-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+306            android:exported="false" />
+306-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+307        <receiver
+307-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+308            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+308-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+309            android:directBootAware="false"
+309-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+310            android:enabled="false"
+310-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+311            android:exported="false" >
+311-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+312            <intent-filter>
+312-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+313                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+313-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+313-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+314                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+314-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+314-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+315            </intent-filter>
+316        </receiver>
+317        <receiver
+317-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+318            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+318-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+319            android:directBootAware="false"
+319-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+320            android:enabled="false"
+320-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+321            android:exported="false" >
+321-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+322            <intent-filter>
+322-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+323                <action android:name="android.intent.action.BATTERY_OKAY" />
+323-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+323-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+324                <action android:name="android.intent.action.BATTERY_LOW" />
+324-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+324-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+325            </intent-filter>
+326        </receiver>
+327        <receiver
+327-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+328            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+328-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+329            android:directBootAware="false"
+329-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+330            android:enabled="false"
+330-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+331            android:exported="false" >
+331-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+332            <intent-filter>
+332-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+333                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+333-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+333-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+334                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+334-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+334-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+335            </intent-filter>
+336        </receiver>
+337        <receiver
+337-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+338            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+338-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+339            android:directBootAware="false"
+339-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+340            android:enabled="false"
+340-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+341            android:exported="false" >
+341-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+342            <intent-filter>
+342-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+343                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+343-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+343-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+344            </intent-filter>
+345        </receiver>
+346        <receiver
+346-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+347            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+347-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+348            android:directBootAware="false"
+348-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+349            android:enabled="false"
+349-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+350            android:exported="false" >
+350-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+351            <intent-filter>
+351-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+352                <action android:name="android.intent.action.BOOT_COMPLETED" />
+352-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+352-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+353                <action android:name="android.intent.action.TIME_SET" />
+353-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+353-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+354                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+354-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+354-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+355            </intent-filter>
+356        </receiver>
+357        <receiver
+357-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+358            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+358-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+359            android:directBootAware="false"
+359-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+360            android:enabled="@bool/enable_system_alarm_service_default"
+360-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+361            android:exported="false" >
+361-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+362            <intent-filter>
+362-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+363                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+363-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+363-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+364            </intent-filter>
+365        </receiver>
+366        <receiver
+366-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+367            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+367-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+368            android:directBootAware="false"
+368-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+369            android:enabled="true"
+369-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+370            android:exported="true"
+370-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+371            android:permission="android.permission.DUMP" >
+371-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+372            <intent-filter>
+372-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+373                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+373-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+373-->[androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+374            </intent-filter>
+375        </receiver>
+376
+377        <service
+377-->[androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+378            android:name="androidx.room.MultiInstanceInvalidationService"
+378-->[androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+379            android:directBootAware="true"
+379-->[androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+380            android:exported="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+380-->[androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+381        <activity
+381-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:5-271
+382            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+382-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:15-102
+383            android:enabled="false"
+383-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:103-126
+384            android:exported="false"
+384-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:127-151
+385            android:launchMode="singleInstance"
+385-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:204-239
+386            android:process=":playcore_missing_splits_activity"
+386-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:152-203
+387            android:stateNotNeeded="true" />
+387-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:240-269
+388        <activity
+388-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:5-226
+389            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+389-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:15-95
+390            android:enabled="false"
+390-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:96-119
+391            android:exported="false"
+391-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:120-144
+392            android:stateNotNeeded="true"
+392-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:145-174
+393            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+393-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:175-224
+394        <service
+394-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:5-18:15
+395            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+395-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:14-95
+396            android:enabled="false"
+396-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:96-119
+397            android:exported="true" >
+397-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:120-143
+398            <meta-data
+398-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:7-108
+399                android:name="com.google.android.play.core.assetpacks.versionCode"
+399-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:18-84
+400                android:value="10901" />
+400-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:85-106
+401        </service>
+402        <service
+402-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:5-147
+403            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+403-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:14-96
+404            android:enabled="false"
+404-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:97-120
+405            android:exported="false" />
+405-->[com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:121-145
+406    </application>
+407
+408</manifest>
