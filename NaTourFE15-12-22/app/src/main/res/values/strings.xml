@@ -1,0 +1,203 @@
+<resources>
+    <string name="app_name">NaTour2122FE</string>
+    <!--Main-->
+    <string name="na_tour">NA TOUR</string>
+    <string name="accedi_con_google">ACCEDI CON GOOGLE</string>
+    <string name="accedi_con_facebook">ACCEDI CON FACEBOOK</string>
+    <string name="accedi_con_email">ACCEDI CON EMAIL</string>
+    <!-- SIGN UP -->
+    <string name="username">Inserisci Username</string>
+    <string name="email">Inserisci Email</string>
+    <string name="password">Inserisci Password</string>
+    <string name="emailBis">Inserisci di nuovo l\' Email</string>
+    <string name="passwordBis">Inserisci di nuovo la Password</string>
+    <string name="signupbtn">Registrati</string>
+    <string name="signinbtn">Accedi</string>
+    <!-- Confirm email -->
+    <string name="code">Inserisci il codice </string>
+    <string name="verify"> Verifica il codice</string>
+    <!--Home-->
+    <string name="signoutbtn">Esci</string>
+    <!--Facebook login-->
+    <!-- errors login logout-->
+    <string name="errors">Errors:</string>
+    <string name="popup">popup</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="Surname">Inserisci Cognome</string>
+    <string name="signinbtn2">Già registrato?</string>
+    <string name="Name">Inserisci Nome</string>
+    <string name="emailUA">Email</string>
+    <string name="cognomeUA">Cognome</string>
+    <string name="nomeUA">Nome</string>
+    <string name="nome_utenteUA">Nome Utente</string>
+    <string name="PathwayName">Nome Percorso</string>
+    <string name="PathwayDescription">Descrizione</string>
+    <string name="btnInsPathway">Inserisci Percorso</string>
+    <string name="accesso_disabili">Accesso Disabili</string>
+    <string name="inserisci_punti_percorso">Inserisci Punti Percorso</string>
+
+    <string-array name="PathwayDuration">
+        <item>30min</item>
+        <item>1ora</item>
+        <item>2ore</item>
+        <item>3ore</item>
+        <item>4ore</item>
+        <item>Più di 4ore</item>
+        <item>Giorni</item>
+        <item>Settimane</item>
+        <item>Mesi</item>
+    </string-array>
+
+    <string-array name="TypeSearch">
+        <item>Citta</item>
+        <item>Livello di Difficolta</item>
+        <item>Durata</item>
+        <item>Accessibilita Disabili</item>
+    </string-array>
+    <string-array name="PathwayDifficulty">
+        <item>Facile</item>
+        <item>Medio</item>
+        <item>Difficile</item>
+        <item>Molto Difficile</item>
+    </string-array>
+
+    <string-array name="FeedbackVote">
+        <item>1st</item>
+        <item>2st</item>
+        <item>3st</item>
+        <item>4st</item>
+        <item>5st</item>
+    </string-array>
+    <string-array name="TypeInterestPoint">
+        <item>Sorgente</item>
+        <item>PuntoPanoramico</item>
+        <item>Area Pic-nic</item>
+        <item>Baita</item>
+        <item>Grotte</item>
+        <item>Interesse Artistico</item>
+        <item>Interesse Archeologico</item>
+        <item>Montagna</item>
+        <item>Fiume</item>
+        <item>Altro</item>
+
+    </string-array>
+
+    <string name="title_activity_rute_details_scr">RuteDetailsActivityScr</string>
+    <string name="large_text">
+
+
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="PathwayDifficulty">Difficoltà</string>
+    <string name="btnInsInterestingPoints">Inserisci Punti Interesse</string>
+    <string name="btnInsFeedback">Recensioni</string>
+    <string name="btnFeedback">Recensioni</string>
+    <string name="PathwayDuration">Durata</string>
+    <string name="btnPhoto">Foto</string>
+    <string name="btnReport">Segnala</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="PathwayCity">Citta</string>
+    <string name="spPathwayDifficulty">Difficoltà</string>
+    <string name="spPathwayDuration">Durata</string>
+    <string name="mandatory">Campo non inserito</string>
+    <string name="FeedbackDescription">descrizione</string>
+    <string name="inserisci_punti_sul_percorso">Inserisci Nuovi Punti</string>
+    <string name="inserisci_punto_sul_percorso">Inserisci un Nuovo Punto di Interesse</string>
+    <string name="InterestPointName">Nome Punto Interesse</string>
+    <string name="inserisci_punto_di_interesse">Inserisci Punto di Interesse</string>
+    <string name="spTypeIterestPoint">Tipo</string>
+    <string name="signDescription">Descrizione</string>
+    <string name="respond">Inserisci Risposta</string>
+    <string name="btnSavePhoto">Carica Foto</string>
+
+
+</resources>
