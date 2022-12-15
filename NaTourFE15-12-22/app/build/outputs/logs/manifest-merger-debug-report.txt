@@ -1,0 +1,1245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:17:1-60:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ed54c3b0d5f6a28b1839c425b3f7c29\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2316ded6f401d175bb93b9da07c4490d\transformed\jetified-aws-auth-cognito-1.37.2\AndroidManifest.xml:16:1-24:12
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:16:1-32:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b076ba85a64e714f94d5697aa2fd03cf\transformed\navigation-ui-ktx-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7b27c3ab909c00d87763555c3d984629\transformed\navigation-ui-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:17:1-60:12
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:17:1-32:12
+MERGED from [io.getstream:stream-chat-android-ui-utils:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e929943b91d90d404f99261722f8d937\transformed\jetified-stream-chat-android-ui-utils-5.8.2\AndroidManifest.xml:17:1-24:12
+MERGED from [io.getstream:stream-chat-android-offline:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\3fa266c55afa8dcbbc3898c95201f5c0\transformed\jetified-stream-chat-android-offline-5.8.2\AndroidManifest.xml:17:1-26:12
+MERGED from [io.getstream:stream-chat-android-state:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\12e3c15eec2211614e407f40f2998631\transformed\jetified-stream-chat-android-state-5.8.2\AndroidManifest.xml:17:1-24:12
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:17:1-39:12
+MERGED from [io.getstream:stream-logger-android:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9001ffd7e489cbbb209f74de48801219\transformed\jetified-stream-logger-android-5.8.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8173220b6aa2367999acd25226718542\transformed\jetified-coil-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-gif:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c1739ef3c53f34252ccdc54b5c59adbb\transformed\jetified-coil-gif-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-video:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aa13f96ce2b1249b3a04c66a5f9007e6\transformed\jetified-coil-video-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ebf8b3d081604f323b66e7627ada3c48\transformed\jetified-coil-base-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7fbc1cd1b81b18eff464af27d40cc860\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.stfalcon-studio:StfalconImageViewer:1.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\db209a5098715d7030a0875ce660ee31\transformed\jetified-StfalconImageViewer-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cf50a62f64fefcc861176d65692202ee\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0a1e1205a4ad55603e56c0d69f6f4244\transformed\appcompat-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cb189fff3e6ed01bc20aa15291c9d76f\transformed\jetified-navigation-dynamic-features-fragment-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bccf766d98840272a96d79529814f1b3\transformed\navigation-fragment-ktx-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a2aa3a6019932f1674dadb9908469d0\transformed\navigation-fragment-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\55f5ac085af1ed9cc3249ac790ffd376\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e73a35b78f9716ee2f100389c7fdeee\transformed\jetified-navigation-dynamic-features-runtime-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00d5ff86b927d61c3b6293362dd7164e\transformed\navigation-runtime-ktx-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1b58ab64ad47c19b66ceaea7725471e5\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a850a96e2ead43d52caae067f7bfac4d\transformed\navigation-runtime-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b4aaa3249d714b4124c901509ac21eb4\transformed\jetified-glide-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\587ca638a888511de9543d28db2a8a57\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\952a82927e7b767c902ef4e615c522a2\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141f53857d8719b984e626e064215971\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a6ac447a8e227e63753d7404740130d8\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9bd10c378eb68a173217986c89abecb3\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\60375ab817501ffde1c299dc511bbc89\transformed\fragment-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8379cd4e82a67e860830223e91055c14\transformed\navigation-common-ktx-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0021738afa3a875344eec01d8a7cc9bf\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a37bf7661255a6a0a3e20f2d11ec700f\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\02ecd48b576a25fad542457244dca077\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.navigation:navigation-common:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1e5bcb34d747f3c873318e9962b7d818\transformed\navigation-common-2.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52dfbe74e7e3c66151d35fe90b561c94\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\5f6c58d8a84d2332750d4de47d8b1e5d\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\79b4328ac1fc72f07197bf10c6d691d2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d44072371d690af382ef26dcd38ef256\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ec21863584e8aeed43de747e34e99cfd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6df1df62a8457f4f9a53c41eceec3089\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6ad65893864227e983047caab092aeef\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ebe779b919de3196066dedec098b906\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aec7820b003a8aa76353ffe361afbc8a\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a69757a82804f23502439948313dcce\transformed\jetified-room-ktx-2.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00944167d01d71bf791c6a8051801f77\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\778a640b5f3edc04f229fea8cefc5fba\transformed\jetified-aws-android-sdk-cognitoidentityprovider-2.51.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\26a0d9f9a35407432fefe67cf35b9e21\transformed\jetified-aws-android-sdk-auth-core-2.51.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd2602aeba3d0c0b0e4fec1724156184\transformed\jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1f29ab88d21f05a17f83b899a3d7a418\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\135288c17468fb920c79d0dd2fc44ba3\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:15:2-22:13
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ee62240d143d55c41c4dae35dbcb88ff\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:15:2-22:13
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b3cc3a5d26adcca4cb87f30ce878db7b\transformed\jetified-keyboardvisibilityevent-2.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:15:2-22:13
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9e046db101ae8aa504314c7f2b2db99d\transformed\jetified-threetenabp-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:1-156:12
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:27:5-81
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:26:5-80
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:25:5-79
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:25:5-79
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:24:5-79
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:18:5-79
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:18:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:20:6-79
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:20:6-79
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:24:5-67
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:24:5-67
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:25:5-67
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:17:5-67
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:17:5-67
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:19:6-67
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:19:6-67
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:13:5-154:19
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:29:5-58:19
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:29:5-58:19
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:26:5-30:19
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:26:5-30:19
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:34:5-58:19
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:34:5-58:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:26:5-30:19
+MERGED from [io.getstream:stream-chat-android-offline:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\3fa266c55afa8dcbbc3898c95201f5c0\transformed\jetified-stream-chat-android-offline-5.8.2\AndroidManifest.xml:24:5-20
+MERGED from [io.getstream:stream-chat-android-offline:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\3fa266c55afa8dcbbc3898c95201f5c0\transformed\jetified-stream-chat-android-offline-5.8.2\AndroidManifest.xml:24:5-20
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:27:5-37:19
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:27:5-37:19
+MERGED from [io.getstream:stream-logger-android:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9001ffd7e489cbbb209f74de48801219\transformed\jetified-stream-logger-android-5.8.2\AndroidManifest.xml:24:5-20
+MERGED from [io.getstream:stream-logger-android:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9001ffd7e489cbbb209f74de48801219\transformed\jetified-stream-logger-android-5.8.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b4aaa3249d714b4124c901509ac21eb4\transformed\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b4aaa3249d714b4124c901509ac21eb4\transformed\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\587ca638a888511de9543d28db2a8a57\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\587ca638a888511de9543d28db2a8a57\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a6ac447a8e227e63753d7404740130d8\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a6ac447a8e227e63753d7404740130d8\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9bd10c378eb68a173217986c89abecb3\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9bd10c378eb68a173217986c89abecb3\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\79b4328ac1fc72f07197bf10c6d691d2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\79b4328ac1fc72f07197bf10c6d691d2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9e046db101ae8aa504314c7f2b2db99d\transformed\jetified-threetenabp-1.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9e046db101ae8aa504314c7f2b2db99d\transformed\jetified-threetenabp-1.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:10:3-21:17
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:10:3-21:17
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:19:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:23:9-38
+	android:roundIcon
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:22:9-50
+	android:networkSecurityConfig
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:14:9-47
+activity#com.example.natour2122fe.PhotoActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:24:9-27:40
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:26:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.example.natour2122fe.chat.ImgurAttachmentFactory
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:29:13-56
+meta-data#android.app.lib_name
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:32:13-34:36
+	android:value
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:34:17-33
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:33:17-52
+activity#com.example.natour2122fe.chat.ChatActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:36:9-43:20
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:37:13-46
+activity#com.example.natour2122fe.chat.ListChatActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:44:9-51:20
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:45:13-50
+activity#com.example.natour2122fe.InsResponsPathwaySignalitedActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:52:9-55:68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:54:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:53:13-64
+activity#com.example.natour2122fe.VisPathwaySignalitedActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:56:9-59:68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:58:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:59:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:57:13-57
+activity#com.example.natour2122fe.SignalingActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:60:9-63:68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:63:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:61:13-46
+activity#com.example.natour2122fe.InsPhotoActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:64:9-67:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:66:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:65:13-45
+activity#com.example.natour2122fe.InsPathwaySignalingActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:68:9-71:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:71:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:69:13-56
+activity#com.example.natour2122fe.InsInterestPointsActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:72:9-75:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:74:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:75:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:73:13-54
+activity#com.example.natour2122fe.InsFeedbackActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:76:9-79:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:78:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:79:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:77:13-48
+activity#com.example.natour2122fe.InterestPointsActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:80:9-83:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:82:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:83:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:81:13-51
+activity#com.example.natour2122fe.FeedbackActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:84:9-87:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:86:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:87:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:85:13-45
+activity#com.example.natour2122fe.RuteDetailsActivityScr
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:88:9-92:69
+	android:label
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:91:13-68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:90:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:92:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:89:13-51
+activity#com.example.natour2122fe.InsPathwayActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:93:9-96:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:95:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:96:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:94:13-47
+activity#com.example.natour2122fe.MapPointsActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:97:9-100:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:99:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:100:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:98:13-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:102:9-104:47
+	android:value
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:104:13-44
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:103:13-58
+activity#com.example.natour2122fe.login.google.GoogleLoginActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:106:9-109:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:108:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:109:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:107:13-61
+activity#com.example.natour2122fe.login.UserActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:110:9-113:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:112:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:113:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:111:13-47
+activity#com.example.natour2122fe.login.AdminActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:114:9-117:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:116:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:117:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:115:13-48
+activity#com.example.natour2122fe.login.popUpErrorActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:118:9-121:68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:120:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:121:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:119:13-53
+activity#com.example.natour2122fe.popUpPhotoActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:122:9-125:68
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:124:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:125:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:123:13-47
+activity#com.example.natour2122fe.HomeActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:126:9-129:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:128:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:129:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:127:13-41
+activity#com.example.natour2122fe.login.ConfirmActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:130:9-133:69
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:132:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:133:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:131:13-50
+activity#com.example.natour2122fe.login.SignInActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:134:9-138:69
+	android:parentActivityName
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:137:13-55
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:136:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:138:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:135:13-49
+activity#com.example.natour2122fe.MainActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:139:9-148:20
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:141:13-36
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:142:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:140:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:143:13-147:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:144:17-69
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:144:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:146:17-77
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:146:27-74
+activity#com.example.natour2122fe.login.SignUpActivity
+ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:149:9-153:69
+	android:parentActivityName
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:152:13-55
+	android:exported
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:151:13-37
+	android:theme
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:153:13-66
+	android:name
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml:150:13-49
+uses-sdk
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:21:5-23:41
+MERGED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ed54c3b0d5f6a28b1839c425b3f7c29\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ed54c3b0d5f6a28b1839c425b3f7c29\transformed\jetified-viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2316ded6f401d175bb93b9da07c4490d\transformed\jetified-aws-auth-cognito-1.37.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:aws-auth-cognito:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2316ded6f401d175bb93b9da07c4490d\transformed\jetified-aws-auth-cognito-1.37.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b076ba85a64e714f94d5697aa2fd03cf\transformed\navigation-ui-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b076ba85a64e714f94d5697aa2fd03cf\transformed\navigation-ui-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7b27c3ab909c00d87763555c3d984629\transformed\navigation-ui-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7b27c3ab909c00d87763555c3d984629\transformed\navigation-ui-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:21:5-23:41
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:21:5-23:41
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:22:5-24:41
+MERGED from [io.getstream:stream-chat-android-ui-utils:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e929943b91d90d404f99261722f8d937\transformed\jetified-stream-chat-android-ui-utils-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-ui-utils:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e929943b91d90d404f99261722f8d937\transformed\jetified-stream-chat-android-ui-utils-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-offline:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\3fa266c55afa8dcbbc3898c95201f5c0\transformed\jetified-stream-chat-android-offline-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-offline:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\3fa266c55afa8dcbbc3898c95201f5c0\transformed\jetified-stream-chat-android-offline-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-state:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\12e3c15eec2211614e407f40f2998631\transformed\jetified-stream-chat-android-state-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-state:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\12e3c15eec2211614e407f40f2998631\transformed\jetified-stream-chat-android-state-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-logger-android:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9001ffd7e489cbbb209f74de48801219\transformed\jetified-stream-logger-android-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [io.getstream:stream-logger-android:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9001ffd7e489cbbb209f74de48801219\transformed\jetified-stream-logger-android-5.8.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b6f52d92dea29c0a7f49d4078033a89a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7973dc37a0b9b77da65b027e645a80f7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8173220b6aa2367999acd25226718542\transformed\jetified-coil-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8173220b6aa2367999acd25226718542\transformed\jetified-coil-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-gif:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c1739ef3c53f34252ccdc54b5c59adbb\transformed\jetified-coil-gif-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-gif:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c1739ef3c53f34252ccdc54b5c59adbb\transformed\jetified-coil-gif-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-video:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aa13f96ce2b1249b3a04c66a5f9007e6\transformed\jetified-coil-video-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-video:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aa13f96ce2b1249b3a04c66a5f9007e6\transformed\jetified-coil-video-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ebf8b3d081604f323b66e7627ada3c48\transformed\jetified-coil-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ebf8b3d081604f323b66e7627ada3c48\transformed\jetified-coil-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7fbc1cd1b81b18eff464af27d40cc860\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7fbc1cd1b81b18eff464af27d40cc860\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.stfalcon-studio:StfalconImageViewer:1.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\db209a5098715d7030a0875ce660ee31\transformed\jetified-StfalconImageViewer-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon-studio:StfalconImageViewer:1.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\db209a5098715d7030a0875ce660ee31\transformed\jetified-StfalconImageViewer-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cf50a62f64fefcc861176d65692202ee\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cf50a62f64fefcc861176d65692202ee\transformed\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0a1e1205a4ad55603e56c0d69f6f4244\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0a1e1205a4ad55603e56c0d69f6f4244\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cb189fff3e6ed01bc20aa15291c9d76f\transformed\jetified-navigation-dynamic-features-fragment-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\cb189fff3e6ed01bc20aa15291c9d76f\transformed\jetified-navigation-dynamic-features-fragment-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bccf766d98840272a96d79529814f1b3\transformed\navigation-fragment-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bccf766d98840272a96d79529814f1b3\transformed\navigation-fragment-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a2aa3a6019932f1674dadb9908469d0\transformed\navigation-fragment-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a2aa3a6019932f1674dadb9908469d0\transformed\navigation-fragment-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\55f5ac085af1ed9cc3249ac790ffd376\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\55f5ac085af1ed9cc3249ac790ffd376\transformed\jetified-fragment-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e73a35b78f9716ee2f100389c7fdeee\transformed\jetified-navigation-dynamic-features-runtime-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e73a35b78f9716ee2f100389c7fdeee\transformed\jetified-navigation-dynamic-features-runtime-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00d5ff86b927d61c3b6293362dd7164e\transformed\navigation-runtime-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00d5ff86b927d61c3b6293362dd7164e\transformed\navigation-runtime-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1b58ab64ad47c19b66ceaea7725471e5\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1b58ab64ad47c19b66ceaea7725471e5\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a850a96e2ead43d52caae067f7bfac4d\transformed\navigation-runtime-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a850a96e2ead43d52caae067f7bfac4d\transformed\navigation-runtime-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0c31c340488affaa3b96a93438ed2582\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b4aaa3249d714b4124c901509ac21eb4\transformed\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b4aaa3249d714b4124c901509ac21eb4\transformed\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2ce9ada1a4f67244c93a999b3e84b24b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\587ca638a888511de9543d28db2a8a57\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\587ca638a888511de9543d28db2a8a57\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\952a82927e7b767c902ef4e615c522a2\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\952a82927e7b767c902ef4e615c522a2\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141f53857d8719b984e626e064215971\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141f53857d8719b984e626e064215971\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a6ac447a8e227e63753d7404740130d8\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a6ac447a8e227e63753d7404740130d8\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9bd10c378eb68a173217986c89abecb3\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9bd10c378eb68a173217986c89abecb3\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\60375ab817501ffde1c299dc511bbc89\transformed\fragment-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\60375ab817501ffde1c299dc511bbc89\transformed\fragment-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bdb8853997bc265ee9161be0ce5c88e2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\43c683eb5b9310b1ebaf5a5f2c96253f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8379cd4e82a67e860830223e91055c14\transformed\navigation-common-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8379cd4e82a67e860830223e91055c14\transformed\navigation-common-ktx-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d1def142f42c2ba348d5f5078c6078f6\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0021738afa3a875344eec01d8a7cc9bf\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0021738afa3a875344eec01d8a7cc9bf\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a37bf7661255a6a0a3e20f2d11ec700f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a37bf7661255a6a0a3e20f2d11ec700f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\02ecd48b576a25fad542457244dca077\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\02ecd48b576a25fad542457244dca077\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:12:5-15:96
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:12:5-15:96
+MERGED from [androidx.navigation:navigation-common:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1e5bcb34d747f3c873318e9962b7d818\transformed\navigation-common-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.4] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1e5bcb34d747f3c873318e9962b7d818\transformed\navigation-common-2.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8e4789385d1dbba8cd6afa20d54cf6bd\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52dfbe74e7e3c66151d35fe90b561c94\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52dfbe74e7e3c66151d35fe90b561c94\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\29ad4765520015fe3dfdca66a979c1a8\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\52070002d578ee9daa660a1b612de420\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\5f6c58d8a84d2332750d4de47d8b1e5d\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\5f6c58d8a84d2332750d4de47d8b1e5d\transformed\work-runtime-ktx-2.7.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\79b4328ac1fc72f07197bf10c6d691d2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\79b4328ac1fc72f07197bf10c6d691d2\transformed\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d44072371d690af382ef26dcd38ef256\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d44072371d690af382ef26dcd38ef256\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ec21863584e8aeed43de747e34e99cfd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ec21863584e8aeed43de747e34e99cfd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6df1df62a8457f4f9a53c41eceec3089\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6df1df62a8457f4f9a53c41eceec3089\transformed\jetified-lifecycle-livedata-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6ad65893864227e983047caab092aeef\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6ad65893864227e983047caab092aeef\transformed\lifecycle-livedata-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ebe779b919de3196066dedec098b906\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4ebe779b919de3196066dedec098b906\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aec7820b003a8aa76353ffe361afbc8a\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aec7820b003a8aa76353ffe361afbc8a\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a69757a82804f23502439948313dcce\transformed\jetified-room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7a69757a82804f23502439948313dcce\transformed\jetified-room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00944167d01d71bf791c6a8051801f77\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\00944167d01d71bf791c6a8051801f77\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\778a640b5f3edc04f229fea8cefc5fba\transformed\jetified-aws-android-sdk-cognitoidentityprovider-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\778a640b5f3edc04f229fea8cefc5fba\transformed\jetified-aws-android-sdk-cognitoidentityprovider-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\26a0d9f9a35407432fefe67cf35b9e21\transformed\jetified-aws-android-sdk-auth-core-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\26a0d9f9a35407432fefe67cf35b9e21\transformed\jetified-aws-android-sdk-auth-core-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd2602aeba3d0c0b0e4fec1724156184\transformed\jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-cognitoidentityprovider-asf:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\fd2602aeba3d0c0b0e4fec1724156184\transformed\jetified-aws-android-sdk-cognitoidentityprovider-asf-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1f29ab88d21f05a17f83b899a3d7a418\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\1f29ab88d21f05a17f83b899a3d7a418\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\135288c17468fb920c79d0dd2fc44ba3\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\135288c17468fb920c79d0dd2fc44ba3\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-embedded:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\c690827234662c4d82da9edf0e1d3b6a\transformed\jetified-cronet-embedded-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\df544068d83d8d86f833e18470bed368\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ee62240d143d55c41c4dae35dbcb88ff\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\ee62240d143d55c41c4dae35dbcb88ff\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\458619b281edf38572d58e052c6fe20b\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-common:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\61f6cd8117d8ee56bee5f5bfd1856461\transformed\jetified-cronet-common-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b3cc3a5d26adcca4cb87f30ce878db7b\transformed\jetified-keyboardvisibilityevent-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b3cc3a5d26adcca4cb87f30ce878db7b\transformed\jetified-keyboardvisibilityevent-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [org.chromium.net:cronet-api:102.5005.125] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\37ee2dfa44f5373e121cc24fb7829d20\transformed\jetified-cronet-api-102.5005.125\AndroidManifest.xml:18:6-75
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9e046db101ae8aa504314c7f2b2db99d\transformed\jetified-threetenabp-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.4.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\9e046db101ae8aa504314c7f2b2db99d\transformed\jetified-threetenabp-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:4:3-70
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\d990d255448806c1477bda5cc3dd650d\transformed\jetified-aws-android-sdk-mobile-client-2.51.0\AndroidManifest.xml:15:9-93
+	android:targetSdkVersion
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\peppe\Desktop\NaTour2122FE\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:30:9-38:20
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:49:9-57:20
+MERGED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:49:9-57:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:34:13-31
+	android:authorities
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:32:13-68
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:31:13-67
+meta-data#io.getstream.chat.android.ui.common.ChatUIInitializer
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:35:13-37:52
+	android:value
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:37:17-49
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:36:17-85
+activity#io.getstream.chat.android.ui.gallery.AttachmentGalleryActivity
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:40:9-43:65
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:41:13-90
+activity#io.getstream.chat.android.ui.gallery.AttachmentMediaActivity
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:44:9-47:61
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:46:13-37
+	android:theme
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:47:13-58
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:45:13-88
+activity#io.getstream.chat.android.ui.gallery.AttachmentActivity
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:48:9-51:66
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:50:13-37
+	android:theme
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:49:13-83
+activity#io.getstream.chat.android.ui.channel.ChannelListActivity
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:53:13-84
+activity#io.getstream.chat.android.ui.message.MessageListActivity
+ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:55:9-57:40
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-components:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\6e019c47370c4d0a13fcf926c4d84331\transformed\jetified-stream-chat-android-ui-components-5.8.2\AndroidManifest.xml:56:13-84
+activity#com.amplifyframework.devmenu.DeveloperMenuActivity
+ADDED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:27:9-29:54
+	android:theme
+		ADDED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from [com.amplifyframework:core:1.37.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\45965a329afab1a007b769d31fbe17cc\transformed\jetified-core-1.37.2\AndroidManifest.xml:28:13-78
+queries
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:25:5-32:15
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.media.action.VIDEO_CAPTURE
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:26:9-28:18
+action#android.media.action.VIDEO_CAPTURE
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:27:21-70
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:29:9-31:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:30:21-70
+activity#com.getstream.sdk.chat.view.activity.AttachmentDocumentActivity
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:35:9-38:75
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:37:13-37
+	android:theme
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:36:13-91
+provider#com.getstream.sdk.chat.StreamFileProvider
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:40:9-48:20
+	android:grantUriPermissions
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:44:13-47
+	android:authorities
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:42:13-70
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:41:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:45:13-47:60
+	android:resource
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:47:17-57
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:46:17-67
+meta-data#com.getstream.sdk.chat.startup.ThreeTenInitializer
+ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:54:13-56:52
+	android:value
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:56:17-49
+	android:name
+		ADDED from [io.getstream:stream-chat-android-ui-common:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\aaf8eb69d668fa2882fb6acca0b03178\transformed\jetified-stream-chat-android-ui-common-5.8.2\AndroidManifest.xml:55:17-82
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.2.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\f3fefd1fd1a2f959f0ae3561be4096c4\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:28:13-60
+receiver#io.getstream.chat.android.client.receivers.NotificationMessageReceiver
+ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:28:9-36:20
+	android:enabled
+		ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:29:13-98
+intent-filter#action:name:com.getstream.sdk.chat.READ+action:name:com.getstream.sdk.chat.REPLY
+ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:32:13-35:29
+action#com.getstream.sdk.chat.READ
+ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:33:17-70
+	android:name
+		ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:33:25-67
+action#com.getstream.sdk.chat.REPLY
+ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:34:17-71
+	android:name
+		ADDED from [io.getstream:stream-chat-android-client:5.8.2] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\746770b075f0fcdca49439fb9af5059f\transformed\jetified-stream-chat-android-client-5.8.2\AndroidManifest.xml:34:25-68
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a83ecdbe4e0a4468dfe6e0d613efbd99\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:11:9-13:40
+MERGED from [com.amazonaws:aws-android-sdk-core:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\2e69978662f52cbf301acd60c03f52e1\transformed\jetified-aws-android-sdk-core-2.51.0\AndroidManifest.xml:11:9-13:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\709ad52284287fdc85d7934d58bb9017\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+activity#com.amazonaws.mobileconnectors.cognitoauth.activities.CustomTabsManagerActivity
+ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:15:13-44
+	android:exported
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-cognitoauth:2.51.0] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\788fe78797e710ee3225e1e2bfc720a0\transformed\jetified-aws-android-sdk-cognitoauth-2.51.0\AndroidManifest.xml:13:13-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:8:3-74
+MERGED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\dd4fb66dc14c9c1107d84b34b8d9470f\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\435fb858b783cfc10a1eb93e83edeeca\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:5-18:15
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:14-95
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:7-108
+	android:value
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:85-106
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:18-84
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:5-147
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:97-120
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:121-145
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] C:\Users\peppe\AndroidStudioProjects\NaTour2122FE\.gradle\7.0.2\caches\transforms-3\bc1163683923244d9725f9de0c1893a8\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:14-96
